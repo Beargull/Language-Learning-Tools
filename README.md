@@ -6,6 +6,9 @@ Uses libraries that mean you can edit the speech-to-text software from Google to
 Tier List for Mandarin-English translation from my experience (could be different for other languages)
 
 S - SOGOU
-A - DEEPL, ALIBABA, BIGDADDYTENCENT, GOOGLE
+
+A - DEEPL, ALIBABA, TENCENT, GOOGLE
+
 B - YOUDAO, BING
+
 C - BAIDU
